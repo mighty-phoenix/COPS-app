@@ -1,0 +1,7 @@
+<resources>
+    <string name="storage_link">gs://my-app-45434.appspot.com</string>
+    <string name="google_web_client_id">845734315050-junidumpc11go2t8rrk3c4vt9gq34nek.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">246271022786680</string>
+    <string name="facebook_large_image_url_pattern">https://graph.facebook.com/%1$s/picture?type=large</string>
+    <string name="google_large_image_url_pattern">%1$s?sz=%2$d</string>
+</resources>
